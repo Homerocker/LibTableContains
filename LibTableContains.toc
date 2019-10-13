@@ -1,0 +1,8 @@
+## Author: Homerocker
+## Title: Lib: table.contains()
+## Version: 1.0
+## Notes: implements table.contains() to check if table contains a value
+## Interface: 30300
+## LoadOnDemand: 1
+
+LibTableContains.lua
