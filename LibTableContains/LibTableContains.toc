@@ -2,7 +2,9 @@
 ## Title: Lib: table.contains()
 ## Version: 1.0
 ## Notes: implements table.contains() to check if table contains a value
+## OptionalDeps: LibStub
 ## Interface: 30300
 ## LoadOnDemand: 1
 
+LibStub.lua
 LibTableContains.lua
